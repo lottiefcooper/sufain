@@ -1,4 +1,4 @@
-#Practising  and Developing Computer Skills with IN40 and Sufian
+# Practising  and Developing Computer Skills with IN40 and Sufian
 
 So far we have learnt :
 
